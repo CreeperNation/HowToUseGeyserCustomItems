@@ -6,6 +6,9 @@ So you want bedrock to see your custom items you wanta start by using a converte
 But you can use https://github.com/ImDaBigBoss/PackConverter note you must set it up you cannot just upload with ease I'll be telling you how to use Kastles one
 
 # Simple version
+
+Make sure to download a pr that has custom items I suggest https://github.com/GeyserMC/Geyser/pull/2822/checks click artifacts to download 
+
 start with opening the repo and making a new issue
 ![A616-F2-DC-F777-45-A7-86-BB-10-A43-EB9-EB98](https://user-images.githubusercontent.com/76449952/176000958-8cd672d3-f96c-4a12-9934-48aab7bf7c37.jpeg)
 
